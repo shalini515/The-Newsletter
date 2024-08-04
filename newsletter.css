@@ -1,0 +1,68 @@
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px;
+    border: 3px solid #121212;
+    
+}
+.image-center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 305px;
+    border: 3px solid #121212;
+}
+.join-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9px;
+    border: 3px solid #121212;
+    padding-left: 62px;
+    padding-right: 62px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: white;
+    background-color: #121212;
+    text-align: center;
+    font-weight: bold;
+
+}
+.email-input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 3px solid #121212;
+    text-align: center;
+    font-family: "arial";
+    font-weight: bold;
+   
+}
+.heading {
+    text-align: center;
+    font-family: "arial";
+    color: #121212;
+}
+.paragraph {
+    text-align: center;
+    font-size: small;
+    font-family: arial;
+    font-style: italic;
+    font-weight: 600px;
+    color:#121212
+}
+.terms {
+    text-align: center;
+    font-size: small;
+    font-family: arial;
+    font-style: italic;
+    font-weight: 600px;
+    color:#121212
+}
